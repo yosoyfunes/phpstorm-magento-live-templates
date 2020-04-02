@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="PHP External Quality Tools" displayType="NONE" />
+  </component>
+</application>

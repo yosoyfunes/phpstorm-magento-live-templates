@@ -1,0 +1,18 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="14" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="accentColor" value="009688" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="userId" value="328ca70:1658054a3a3:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>
