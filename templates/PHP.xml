@@ -1,7 +1,0 @@
-<templateSet group="PHP">
-  <template name="dd" value="echo '&lt;pre&gt;'&#10;var_dump($END$);&#10;die();&#10;&#10;" description="echo '&lt;pre&gt;'; var_dump($VAR); die();" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
